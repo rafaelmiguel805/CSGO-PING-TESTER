@@ -3,7 +3,7 @@ Uma ferramenta criada pelo [Weeeishy](https://github.com/Weeeishy) e atualizada 
 
 A tool created by [Weeeishy](https://github.com/Weeeishy) and updated by me.
 
-=========================================================================================
+======================================================================
 
 Você pode baixar novas atualizações [clicando aqui.](https://github.com/rafaelmiguel805/CSGO-PING-TESTER/releases)
 
